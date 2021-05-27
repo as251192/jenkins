@@ -1,7 +1,7 @@
-Class Simple {
-public static void main(String args{}) {
-
-
-System.out.println("Welcome to cloud knowledge india")
-}
+class Message
+{
+    public static void main(String a[])
+    {
+     System.out.println("This is JAVA Println");
+    }
 }
